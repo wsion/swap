@@ -7,3 +7,6 @@ dispatcher.publish('ShoppingList:addToWorkerOrder',
                                 dataType: 'servicemenu',
                                 data: serviceMenuData
                             });
+
+
+showAddSuccess
